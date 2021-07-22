@@ -8,6 +8,7 @@
 
 <br>
 <h1>My Experience</h1>
+<br>
 <p>
   <img width = 56 height = 56 src="https://media-exp1.licdn.com/dms/image/C510BAQFdNUkdQtNukA/company-logo_100_100/0/1550638555833?e=1634774400&v=beta&t=RyTmAwb9dRfeQ1I6123wR4zYuyA5xWLhj6hV2q74Mrg" />
   <time>6/202020 - Present</time>
