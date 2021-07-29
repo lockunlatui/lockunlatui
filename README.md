@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Do Xuan Loc (Kun)</h1>
+<h1 align="center">--------------------------------</h1>
 <br>
 
 <p width="100%" align = "left">
