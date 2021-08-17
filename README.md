@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Do Xuan Loc (Kun) 13/08/2021</h1>
+<h1 align="center">Hi 👋, I'm Do Xuan Loc (Kun)</h1>
 <h1 align="center">--------------------------------</h1>
 <br>
 
